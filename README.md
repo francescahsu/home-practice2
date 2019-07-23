@@ -1,1 +1,1 @@
-"# home-practice2" 
+# It can convert temperature from Celsius to Fahrenheit. 
